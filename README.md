@@ -4,7 +4,9 @@
 - 喜欢阅读和绘画，以及干饭（干饭万岁🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🥮🍡）！
 
 - 项目介绍
-  > NFTK(未完成)
+  > NFTK(已交接)
+  > 高光谱分类网站
+  > 学习打卡微信小程序
 <!--
 **233MAKA/233MAKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
